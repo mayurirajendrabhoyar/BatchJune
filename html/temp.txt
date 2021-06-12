@@ -1,0 +1,2 @@
+* All elements are tags but all tags are not an elements.
+
