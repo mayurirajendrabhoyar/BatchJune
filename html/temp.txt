@@ -1,2 +1,11 @@
 * All elements are tags but all tags are not an elements.
 
+IN 3 Ways
+
+1. Inline
+2. Internal
+3. External
+
+selector {
+	color: green;
+}
